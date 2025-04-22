@@ -1,0 +1,10 @@
+{
+    "name": "voilaah/oc-linkedinconnect-plugin",
+    "type": "october-plugin",
+    "description": "LinkedIn plugin for October CMS",
+    "require": {
+        "php": "^8.0",
+        "composer/installers": "~1.0",
+        "october/rain": "^3.0"
+    }
+}
